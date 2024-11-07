@@ -9,4 +9,4 @@
 # Info
  This was made using [python](https://www.python.org) and the [Manim Community Version](https://www.manim.community) python libary. 
 
- ![Manim Logo]([https://myoctocat.com/assets/images/base-octocat.svg](https://docs.manim.community/en/stable/_static/manim-logo-sidebar-dark.svg))
+![Manim Logo](https://docs.manim.community/en/stable/_static/manim-logo-sidebar-dark.svg)
